@@ -9,6 +9,7 @@ Files:
 Demo numbers:
 9876543210
 9123456789
+8148550423
 
 IMPORTANT:
 This is a simple front-end demo. Data is stored in data.js and is visible to anyone who can access the source. For real customer data, use a secure server/database and authentication/OTP instead of exposing mobile-number records in JavaScript.
