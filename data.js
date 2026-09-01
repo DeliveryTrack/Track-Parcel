@@ -2,7 +2,7 @@
 // Add/edit customers here. Mobile numbers should be 10 digits.
 const parcels = [
   {
-    mobile: "9876543210",
+    mobile: "6376836811",
     name: "Rahul Kumar",
     parcelId: "GH10245",
     project: "Handwriting Project",
